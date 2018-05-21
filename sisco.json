@@ -1,0 +1,7 @@
+{
+  "input": "./src/scss/",
+  "output": "../Image/sp/css/",
+  "autoprefixer": true,
+  "autoprefixerBrowsers": "Android 2.1,ios 6",
+  "autoprefixerRemoveOutdated": false
+}
