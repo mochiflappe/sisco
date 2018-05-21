@@ -1,0 +1,21 @@
+{
+  "name": "sisco",
+  "version": "1.0.0",
+  "description": "Simple Sass Compiler",
+  "author": "mochiflappe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochiflappe/sisco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mochiflappe/sisco/issues"
+  },
+  "homepage": "https://github.com/mochiflappe/sisco#readme",
+  "bin": {
+    "sisco": "bin/sisco"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
